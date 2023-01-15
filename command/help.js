@@ -518,4 +518,4 @@ exports.donate = (pushname, ownerNumber) => {
 wa.me/${ownerNumber} (Owner)`
 }
 
-exports.sewanya = `SEWA BOT 5K/7day, 10K/1month `
+exports.sewanya = `Bot ini hanya untuk hiburan semata, kami tidak menjual jasa sewa`
