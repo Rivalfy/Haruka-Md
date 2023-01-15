@@ -12,7 +12,7 @@
     "auto_welcomeMsg": false,
     "auto_leaveMsg": false, 
     "antiViewOnce": true,
-    "antiDelete": true,
+    "antiDelete": false,
     "autobio": false,
     "anticall": false,
     "autorespond": false,
