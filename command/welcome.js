@@ -66,7 +66,7 @@ try {
                         const buttonMessage = {
     image: welcome,
     caption: `${full_pesan}`,
-    footer: `${setting.footer} © 2023`,
+    footer: `${setting.footer} © 2022`,
     buttons: buttonss,
     mentions: [num],
     headerType: 3
@@ -77,7 +77,7 @@ await haruka.sendMessage(anu.id, buttonMessage)
                    	const buttonMessage = {
     image: welcome,
     caption: `Welcome @${num.split("@")[0]} in the group ${groupName}`,
-    footer: `${setting.footer} © 2023`,
+    footer: `${setting.footer} © 2022`,
     buttons: buttonss,
     mentions: [num],
     headerType: 3
@@ -116,7 +116,7 @@ try {
                       const buttonMessage = {
     image: leave,
     caption: full_pesan,
-    footer: `${setting.footer} © 2023`,
+    footer: `${setting.footer} © 2022`,
     buttons: buttonss,
     mentions: [num],
     headerType: 3
@@ -126,7 +126,7 @@ await  haruka.sendMessage(anu.id, buttonMessage)
                        	const buttonMessage = {
     image: leave,
     caption: `Sayonara @${num.split("@")[0]}`,
-    footer: `${setting.footer} © 2023`,
+    footer: `${setting.footer} © 2022`,
     buttons: buttonss,
     mentions: [num],
     headerType: 3
